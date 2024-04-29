@@ -1,0 +1,16 @@
+https://hardhat.org/tutorial/deploying-to-a-live-network - Deployong to live network
+https://sepolia.etherscan.io/tx/0xc37a5f6c9f29541a8ef33b06573ca7b6963fa242745c3de2c055a82ea61a6817 - Smart contract deployed
+https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet -  Details on deploying and checking
+contract address :- 0x2C4b91a990De2975DA46fF8DbC5Eb33fc149ed35
+
+TO get vulnerability scan do :-  "slither . --print human-summary"
+
+get more details of slither here :- "https://github.com/crytic/slither/wiki/Printer-documentation#human-summary"
+
+Papers on block chain:-
+
+1) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3477373#:~:text=A%20blockchain%20is%20essentially%20a,value%20within%20a%20business%20network.
+2) Smart contracts :- https://www.mdpi.com/2078-2489/14/2/117
+3) Proof of work - https://deliverypdf.ssrn.com/delivery.php?ID=729001022114011017089099092027031094026006014001084049030126086018118068064106089099122024127099030044044014000114118096067096021029063058010110124017107021073008002017088098084118114112072123115123104084017074076098116089022097012084068023075114&EXT=pdf&INDEX=TRUE
+4) Proof of stake
+5) https://arxiv.org/pdf/2105.02881.pdf[Reentrancy
